@@ -36,4 +36,4 @@ Two weeks after the summer vacations, Xu Chen's class went on a trip to the coun
 
 That is how he found the transmigrator Xu Chen found himself in the body of Chen Xu.
 
-[Contents](/tg/index.md){: .btn} [Next]](/404.md){: .btn}
+[Contents](/blog-for-stories/tg/index.md){: .btn} [Next]](/blog-for-stories/404.md){: .btn}
