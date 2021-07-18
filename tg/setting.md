@@ -3,8 +3,8 @@
 - There are multiple types of energies, each convertible into another to some extent.
   - Thermal Source : Everything that moves needs thermal energy. Surprisingly, plants are a good source of thermal energy since they collect it naturally but never use. Solar energy is also a form of pure thermal energy. Elements : Light, Fire, Lightning, Wind, Sound. Boosts agility.
   - Mass Source : Energy that provides weight and strength. More mass source means a stronger sense of existence and more inertia. Things accumulate mass source by retaining their state and properties. Elements : Dark, Earth, Air, Water, Wood, Metal. Boost strength and defense.
-  - Soul Source : Energy that creates consciousness and life. This can speed up reproduction, and allows control of other sources of energy. Improves longevity and understanding of the world. Elements : Shadow, Space, Psychic, Summoning, Beastmaster
-  - Void Source : Most primary form of energy. Almost everywhere but those sparse to collect. Elements : All.
+  - Soul Source : Energy that creates consciousness and life. This can speed up reproduction, and allows control of other sources of energy. Improves longevity and understanding of the world. Elements : Shadow, Space, Psychic, Summoning, Beastmaster, Time
+  - Void Source : Most primary form of energy. Almost everywhere but those sparse to collect. Elements : All
 
 - Levels of cultivation : Defined by density and total amount of energy. Not definitive in terms of combat. Defined in terms of exponential growth. 
   - Practitioner : 10 realms of existence. Each realm is double the total energy of the prior. The density is an important factor factions use to determine promising candidates. Beasts are also classified ie a Wolfhound is at realm 3.
@@ -41,3 +41,19 @@ A giant rocky planet that is spiky like a sea urchin. Each of the spikes is a mo
   * Blue Maple city : Home city
     * Upper reaches of Mt Revenant. Low density energy. High density soul energy due to North face of the mountain. Low thermal energy. Average mass energy.
     * 5 main Clans : Chen, Xia, Zhang, Tang, Da
+    * Products : Common herbs, Blue Maple sap, Wolfhound fangs, 
+  * Bai Lao city : Twin city neighbor to Blue Maple City
+    * Competitor and partner of Blue Maple City
+    * Mining, production, trading hub
+    * Products : White marble, Limestone, Iron ore, Cedar wood
+
+
+## Items
+* Herbs
+  * Blue Maple sap (Common) : Natural ointment and base for healing salves, body strengthening medicines
+  * 4 Leaf Clover (Rare) : Natural reservoir of soul source; More leaves = denser soul source
+  * 
+* Animal Products :
+  * Wolfhound fangs : Supplement. Used for bone injuries. Consumed as a Mass source.
+* Minerals :
+  * Iron Ore (Common) : 
